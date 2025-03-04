@@ -1,0 +1,2 @@
+BinaryTree and PositionalList both use nodes and positions to determine where a value is. They are both forms of linked lists
+BinaryTree nodes can have 2 different child nodes, whereas PositionalList DoublyNodes only have one node connected on each end. The structure of both is different.
