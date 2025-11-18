@@ -1,4 +1,4 @@
-#Luke Brudnok
+#Brook Brudnok
 #2/25/25
 
 class BinaryTree:
